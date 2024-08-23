@@ -1,0 +1,14 @@
+{
+	"header": {
+		"userName": "aspulsar",
+		"accessToken": "eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJhY2MiLCJhdWQiOiLnmb7luqbnu5_orqEiLCJ1aWQiOjU3NjQ2NTE1LCJhcHBJZCI6IjEzYmQ1MDQ5YTY3NmQxMDczNzk1OTkzMjEwMmVjNTU3IiwiaXNzIjoi5ZWG5Lia5byA5Y-R6ICF5Lit5b-DIiwicGxhdGZvcm1JZCI6IjQ5NjAzNDU5NjU5NTg1NjE3OTQiLCJleHAiOjE3MjY3NDI5ODcsImp0aSI6Ijg3ODY3NTA1NDA2MzU1NzgzNzAifQ.-ZhW9nm75599DwjMaFO6DxRiT1sEFXzoIvRjFeLOl41FtAGV92h5Ps7wVCupEFUm",
+		"account_type": 1
+	},
+	"body": {
+		"site_id": "20934711",
+		"start_date": "20240801",
+		"end_date": "",
+		"metrics": "pv_count",
+		"method": "overview/getCommonTrackRpt"
+	}
+} 
