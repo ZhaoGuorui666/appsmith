@@ -36,7 +36,7 @@
   "mobileRightColumn": 62,
   "mobileTopRow": 33,
   "needsErrorInfo": false,
-  "onClick": "{{ Input1.text === \"zgr666\" ? showAlert(\"Access Granted\", \"success\") : showAlert(\"Access Denied\", \"error\") }}",
+  "onClick": "{{ Input1.text === \"zgr666\" ? navigateTo('MainPage', {}, 'SAME_WINDOW') : showAlert(\"Access Denied\", \"error\") }}",
   "parentId": "bdtohd4m30",
   "placement": "CENTER",
   "recaptchaType": "V3",
