@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66c59ec1c7621e3f1cd417d5_54e2cf81-255f-407b-a49c-07436d05fc45",
-  "id": "Page1_GetStatistics",
+  "id": "MainPage_GetStatistics",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -40,7 +40,7 @@
     "dynamicBindingPathList": [],
     "executeOnLoad": true,
     "name": "GetStatistics",
-    "pageId": "Page1",
+    "pageId": "MainPage",
     "userSetOnLoad": false
   }
 }
